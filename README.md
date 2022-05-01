@@ -42,7 +42,8 @@ To build and run the sample application, get an App ID:
    npm install
    ```
 2. Start the application by entering the `run push` command.
-   The `run push` command is for loading the dataset to the Algolia index (and configure it properly). This also sets following:
+   The `run push` command is for loading the dataset to the Algolia index (and configure it properly). The dataset used here holds a list of electronic devices such phones, headsets etc...
+   This also sets the following:
 
    - The attributes you want to search in
    - Define business metrics for ranking and sorting
