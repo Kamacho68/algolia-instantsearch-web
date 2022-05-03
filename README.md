@@ -72,4 +72,4 @@ To build and run the sample application, get an App ID:
 
 ## Resources
 
-- You can find full API document at [Document Center](https://www.algolia.com/doc/guides/getting-started/how-algolia-works/in-depth/implementation-process/#configuring-relevance)
+- You can find full API document at [Document Center](https://www.algolia.com/doc/)
